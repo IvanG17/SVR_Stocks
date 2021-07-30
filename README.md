@@ -1,4 +1,4 @@
-# SVR_Stocks
+# Support Vector Regression Stocks Predictions
 
 Cleaned, fitted, and trained a decade worth of stock prices and earnings to Linear, Polynomial, and Radial Basis Functional regression models
 
