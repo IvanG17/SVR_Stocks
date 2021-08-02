@@ -1,6 +1,15 @@
 # Support Vector Regression Stocks Predictions
 
-Cleaned, fitted, and trained a decade worth of stock prices and earnings to Linear, Polynomial, and Radial Basis Functional regression models
+Sanitized and fit ten years worth of market data to three different models- 
+* Linear Regression Model
+* Quadratic (Polynomial) Regression Model 
+* Radial Basis Function Regression Model
 
-Conclusion: 
-Minimal amount of market movements- RBF models predicted upwards of 75% accuracy over a month of testing 
+# Conclusion: 
+With the presumption of a stable market-
+
+Linear and Quadratic Model, after two months of predictive testing on Amazon ($AMZN), I determined that
+* On average, these models achieved around 70% predictive accuracy compared to Amazon's closing price from April and May 2021. 
+
+Radial Basis Function, a linear combination of gaussian normal curves, after a month of testing on Amazon ($AMZN) and three different financial sectors (Consumer Discretionary, Information Technology, and Financials), I determined that
+* On average, these models achieved around 80% predictive accuracy compared to Amazon's and braoder sectors' closing prices for the month of Math 2021. 
